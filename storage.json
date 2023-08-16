@@ -1,0 +1,23 @@
+[
+    {
+      "storage_title": "Main Warehouse",
+      "address": "123 Main Street, Anytown, CA"
+    },
+    {
+      "storage_title": "Secondary Warehouse",
+      "address": "456 Elm Street, Anytown, CA"
+    },
+    {
+      "storage_title": "Distribution Center",
+      "address": "789 Oak Street, Anytown, CA"
+    },
+    {
+      "storage_title": "Cold Storage",
+      "address": "123 Main Street, Anytown, CA"
+    },
+    {
+      "storage_title": "Warm Storage",
+      "address": "456 Elm Street, Anytown, CA"
+    }
+  ]
+

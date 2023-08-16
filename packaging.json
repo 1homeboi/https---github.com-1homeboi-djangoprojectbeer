@@ -1,0 +1,22 @@
+[
+    {
+        "packaging_title": "Can",
+        "capacity": 12.0
+    },
+    {
+        "packaging_title": "Bottle",
+        "capacity": 16.0
+    },
+    {
+        "packaging_title": "Draft",
+        "capacity": 12.0
+    },
+    {
+        "packaging_title": "Growler",
+        "capacity": 64.0
+    },
+    {
+        "packaging_title": "Keg",
+        "capacity": 15.5
+    }
+]

@@ -1,0 +1,22 @@
+[
+    {
+        "city": "Boston",
+        "district": "Downtown"
+    },
+    {
+        "city": "Washington",
+        "district": "Uptown"
+    },
+    {
+        "city": "Chicago",
+        "district": "Midtown"
+    },
+    {
+        "city": "NewMexico",
+        "district": "Southtown"
+    },
+    {
+        "city": "NewYork",
+        "district": "Northtown"
+    }
+]

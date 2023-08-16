@@ -1,0 +1,22 @@
+[
+    {
+        "store_title": "The Beer Store",
+        "location_id": 1
+    },
+    {
+        "store_title": "Liquor World",
+        "location_id": 2
+    },
+    {
+        "store_title": "Total Wine & More",
+        "location_id": 3
+    },
+    {
+        "store_title": "BevMo!",
+        "location_id": 4
+    },
+    {
+        "store_title": "Whole Foods Market",
+        "location_id": 5
+    }
+]

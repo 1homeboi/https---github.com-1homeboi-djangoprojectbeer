@@ -1,0 +1,47 @@
+[
+    {
+        "sku_title": "Bud Light",
+        "price": 5.5,
+        "company_id": 1,
+        "expiry_date": "2023-12-31",
+        "volume": 12.0,
+        "storage_id": 1,
+        "packaging_id": 1
+    },
+    {
+        "sku_title": "Coors Light",
+        "price": 5.0,
+        "company_id": 2,
+        "expiry_date": "2023-11-30",
+        "volume": 12.0,
+        "storage_id": 2,
+        "packaging_id": 2
+    },
+    {
+        "sku_title": "Michelob Ultra",
+        "price": 4.5,
+        "company_id": 3,
+        "expiry_date": "2023-10-31",
+        "volume": 12.0,
+        "storage_id": 3,
+        "packaging_id": 3
+    },
+    {
+        "sku_title": "Sierra Nevada Pale Ale",
+        "price": 6.0,
+        "company_id": 4,
+        "expiry_date": "2023-09-30",
+        "volume": 16.0,
+        "storage_id": 4,
+        "packaging_id": 4
+    },
+    {
+        "sku_title": "Sam Adams Boston Lager",
+        "price": 6.5,
+        "company_id": 5,
+        "expiry_date": "2023-08-31",
+        "volume": 16.0,
+        "storage_id": 5,
+        "packaging_id": 5
+    }
+]

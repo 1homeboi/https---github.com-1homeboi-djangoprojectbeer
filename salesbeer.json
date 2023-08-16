@@ -1,0 +1,22 @@
+[
+    {
+        "sales_id": 1,
+        "beer_id": 1
+    },
+    {
+        "sales_id": 2,
+        "beer_id": 2
+    },
+    {
+        "sales_id": 3,
+        "beer_id": 3
+    },
+    {
+        "sales_id": 4,
+        "beer_id": 4
+    },
+    {
+        "sales_id": 5,
+        "beer_id": 5
+    }
+]
